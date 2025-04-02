@@ -7,7 +7,7 @@ export default function LandingPage() {
                 <title>SkyNexus – Fly Smart</title>
                 <meta
                     name="description"
-                    content="SkyNexus: Fly the B60 Duke with a shared economic model. Take contracts, track expenses, fly smart."
+                    content="SkyNexus: Fly your Flight Simulator with a shared economic model. Take contracts, track expenses, fly smart."
                 />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
